@@ -106,6 +106,10 @@ The model can classify resumes into the following job categories:
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss changes or improvements.
 
+## Contributor
+
+This repository is maintained by [Nitin Yadav](https://github.com/NitinYadav1511).
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
